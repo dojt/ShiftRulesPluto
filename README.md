@@ -10,7 +10,7 @@ The `.html`-files are static snapshots of the Pluto notebooks.  (You can see how
 installed Julia+Pluto correctly; note, though, that some things are randomized.)
 
 
-###### If you derive work from this, please reference the paper:
+##### If you derive work from this, please reference the paper:
 
 ```
 @article{theis:optimSR:2021,

@@ -6,8 +6,7 @@ Pluto notebooks that implement the Shift Rules optimization from
 The `.jl`-files are the interactive Pluto/Julia notebooks.  To experiment with them, you need to install
 [Julia](https://julialang.org) and then add the [Pluto](https://plutojl.org) package.
 
-The `.html`-files are static snapshots of the Pluto notebooks.  (You can see how it looked if you had
-installed Julia+Pluto correctly; note, though, that some things are randomized.)
+The `.html`-files contain snapshots of the Pluto notebooks.  Opening an HTML file in the browser will connect to a cloud service to give a static view of the notebook it contains.  The cloud service has instructions for installing Julia and Pluto in order to interact with the notebook.
 
 
 ##### If you derive work from this, please reference the paper:
